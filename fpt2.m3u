@@ -1,269 +1,539 @@
-<option value="VTV1HD">#EXTM3U</option>
-<option value="VTV2HD">http://ictu.giize.com:1996/udp/225.1.2.249:30120</option>
-<option value="VTV3HD">http://ictu.giize.com:1996/udp/225.1.2.13:30120</option>
-<option value="VTV4HD">http://ictu.giize.com:1996/udp/225.1.2.247:30120</option>
-<option value="VTV5HD">http://ictu.giize.com:1996/udp/225.1.2.20:30120</option>
-<option value="VTV7HD">http://ictu.giize.com:1996/udp/225.1.1.131:30120</option>
-<option value="VTV8HD">http://ictu.giize.com:1996/udp/225.1.2.96:30120</option>
-<option value="VTV9HD">http://ictu.giize.com:1996/udp/225.1.2.166:30120</option>
-<option value="Cần Thơ">http://ictu.giize.com:1996/udp/225.1.1.128:30120</option>
-<option value="HTV1">http://ictu.giize.com:1996/udp/225.1.2.245:30120</option>
-<option value="HTV2HD-Vie Channel">http://ictu.giize.com:1996/udp/225.1.1.180:30120</option>
-<option value="HTV3">http://ictu.giize.com:1996/udp/225.1.1.193:30120</option>
-<option value="HTV4-Key">http://ictu.giize.com:1996/udp/225.1.1.178:30120</option>
-<option value="HTV7FHD">http://ictu.giize.com:1996/udp/225.1.1.177:30120</option>
-<option value="HTV9FHD">http://ictu.giize.com:1996/udp/225.1.1.192:30120</option>
-<option value="HTVC Phim HD">http://ictu.giize.com:1996/udp/225.1.1.190:30120</option>
-<option value="HTVC Gia Đình">http://ictu.giize.com:1996/udp/225.1.1.184:30120</option>
-<option value="HTVC Du Lịch">http://ictu.giize.com:1996/udp/225.1.1.170:30120</option>
-<option value="HTVC Phụ Nữ">http://ictu.giize.com:1996/udp/225.1.1.166:30120</option>
-<option value="HTVC Thuần Việt HD">http://ictu.giize.com:1996/udp/225.1.1.171:30120</option>
-<option value="HTV Coop">http://ictu.giize.com:1996/udp/225.1.1.186:30120</option>
-<option value="HTVC Thể Thao HD">http://ictu.giize.com:1996/udp/225.1.1.210:30120</option>
-<option value="HTVC Shopping-VGS Shop">http://ictu.giize.com:1996/udp/225.1.1.165:30120</option>
-<option value="VTC1HD">http://ictu.giize.com:1996/udp/225.1.1.172:30120</option>
-<option value="VTC2">http://ictu.giize.com:1996/udp/225.1.2.254:30120</option>
-<option value="VTC3HD">http://ictu.giize.com:1996/udp/225.1.2.202:30120</option>
-<option value="Yeah1!Family - VTC4">http://ictu.giize.com:1996/udp/225.1.2.251:30120</option>
-<option value="tvBlue - VTC5">http://ictu.giize.com:1996/udp/225.1.2.200:30120</option>
-<option value="VTC6">http://ictu.giize.com:1996/udp/225.1.2.199:30120</option>
-<option value="Today TV - VTC7">http://ictu.giize.com:1996/udp/225.1.2.198:30120</option>
-<option value="View TV - VTC8">http://ictu.giize.com:1996/udp/225.1.2.197:30120</option>
-<option value="VTC9">http://ictu.giize.com:1996/udp/225.1.2.196:30120</option>
-<option value="Nét Việt - VTC10">http://ictu.giize.com:1996/udp/225.1.2.195:30120</option>
-<option value="Kids &amp; Family TV - VTC11">http://ictu.giize.com:1996/udp/225.1.2.194:30120</option>
-<option value="VTC13HD">http://ictu.giize.com:1996/udp/225.1.2.193:30120</option>
-<option value="VTC14HD">http://ictu.giize.com:1996/udp/225.1.2.250:30120</option>
-<option value="3NTV - VTC16HD">http://ictu.giize.com:1996/udp/225.1.2.88:30120</option>
-<option value="THVL1HD">http://ictu.giize.com:1996/udp/225.1.2.190:30120</option>
-<option value="THVL2HD">http://ictu.giize.com:1996/udp/225.1.1.155:30120</option>
-<option value="THVL3HD">http://ictu.giize.com:1996/udp/225.1.1.154:30120</option>
-<option value="PTQ HD">http://ictu.giize.com:1996/udp/225.1.1.235:30120</option>
-<option value="Animal Planet">http://ictu.giize.com:1996/udp/225.1.2.174:30120</option>
-<option value="Asian Food Channel HD">http://ictu.giize.com:1996/udp/225.1.1.231:30120</option>
-<option value="ABC Australia">http://ictu.giize.com:1996/udp/225.1.1.198:30120</option>
-<option value="AXN HD">http://ictu.giize.com:1996/udp/225.1.2.21:30120</option>
-<option value="BBC Earth HD">http://ictu.giize.com:1996/udp/225.1.2.225:30120</option>
-<option value="BBC Lifestyle">http://ictu.giize.com:1996/udp/225.1.2.24:30120</option>
-<option value="BBC World News">http://ictu.giize.com:1996/udp/225.1.2.52:30120</option>
-<option value="Baby TV HD">http://ictu.giize.com:1996/udp/225.1.2.74:30120</option>
-<option value="Cartoon Network HD">http://ictu.giize.com:1996/udp/225.1.2.146:30120</option>
-<option value="Channel News Asia">http://ictu.giize.com:1996/udp/225.1.2.231:30120</option>
-<option value="Channel [V] HD">http://ictu.giize.com:1996/udp/225.1.1.202:30120</option>
-<option value="Cinema World HD">http://ictu.giize.com:1996/udp/225.1.1.188:30120</option>
-<option value="CNBC">http://ictu.giize.com:1996/udp/225.1.1.142:30120</option>
-<option value="CNN">http://ictu.giize.com:1996/udp/225.1.1.227:30120</option>
-<option value="Da Vinci Learning HD">http://ictu.giize.com:1996/udp/225.1.1.242:30120</option>
-<option value="Discovery Asia HD">http://ictu.giize.com:1996/udp/225.1.1.197:30120</option>
-<option value="Discovery Channel">http://ictu.giize.com:1996/udp/225.1.2.223:30120</option>
-<option value="Disney Channel HD">http://ictu.giize.com:1996/udp/225.1.1.238:30120</option>
-<option value="Disney Junior">http://ictu.giize.com:1996/udp/225.1.2.158:30120</option>
-<option value="Diva Universal">http://ictu.giize.com:1996/udp/225.1.1.233:30120</option>
-<option value="DW HD">http://ictu.giize.com:1996/udp/225.1.1.199:30120</option>
-<option value="SCTV2-ACM">http://ictu.giize.com:1996/udp/225.1.1.46:30120</option>
-<option value="FTV HD">http://ictu.giize.com:1996/udp/225.1.1.234:30120</option>
-<option value="FOX HD">http://ictu.giize.com:1996/udp/225.1.2.227:30120</option>
-<option value="Fox Sports HD">http://ictu.giize.com:1996/udp/225.1.1.51:30120</option>
-<option value="Fox Sports 2HD">http://ictu.giize.com:1996/udp/225.1.2.229:30120</option>
-<option value="Fox Sports 3HD">http://ictu.giize.com:1996/udp/225.1.1.141:30120</option>
-<option value="Fox Movies HD">http://ictu.giize.com:1996/udp/225.1.2.242:30120</option>
-<option value="Fox Life HD">http://ictu.giize.com:1996/udp/225.1.2.239:30120</option>
-<option value="France 24">http://ictu.giize.com:1996/udp/225.1.2.237:30120</option>
-<option value="HBO HD">http://ictu.giize.com:1996/udp/225.1.2.211:30120</option>
-<option value="KIX HD">http://ictu.giize.com:1996/udp/225.1.2.233:30120</option>
-<option value="MAX by HBO HD">http://ictu.giize.com:1996/udp/225.1.2.144:30120</option>
-<option value="National Geographic HD">http://ictu.giize.com:1996/udp/225.1.2.86:30120</option>
-<option value="NHK World">http://ictu.giize.com:1996/udp/225.1.2.235:30120</option>
-<option value="Outdoor Channel HD">http://ictu.giize.com:1996/udp/225.1.1.47:30120</option>
-<option value="RED by HBO HD">http://ictu.giize.com:1996/udp/225.1.2.215:30120</option>
-<option value="TLC">http://ictu.giize.com:1996/udp/225.1.1.93:30120</option>
-<option value="TV5Monde Asia">http://ictu.giize.com:1996/udp/225.1.1.236:30120</option>
-<option value="Blue Ant Entertainment">http://ictu.giize.com:1996/udp/225.1.1.200:30120</option>
-<option value="Blue Ant Extreme">http://ictu.giize.com:1996/udp/225.1.1.203:30120</option>
-<option value="TN1HD _ TH Thái Nguyên (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.1.204:30120</option>
-<option value="PTV HD _ TH Phú Thọ (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.2.179:30120</option>
-<option value="QTV1HD _ TH Quảng Ninh (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.2.165:30120</option>
-<option value="BTV _ TH Bắc Ninh (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.2.181:30120</option>
-<option value="H1HD _ TH Hà Nội (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.1.40:30120</option>
-<option value="H2HD _ TH Hà Nội (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.2.186:30120</option>
-<option value="THP HD _ TH Thành phố Hải Phòng (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.1.125:30120</option>
-<option value="NTV HD _ TH Ninh Bình (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.1.44:30120</option>
-<option value="NTV HD _ TH Nghệ An (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.2.185:30120</option>
-<option value="DaNangTV1HD _ TH Thành phố Đà Nẵng (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.2.183:30120</option>
-<option value="DaNangTV2HD _ TH Thành phố Đà Nẵng (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.1.147:30120</option>
-<option value="PTP _ TH Phú Yên (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.1.146:30120</option>
-<option value="KTV HD _ TH Khánh Hòa (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.2.58:30120</option>
-<option value="THGL _ TH Gia Lai (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.1.133:30120</option>
-<option value="BTV1HD _ TH Bình Dương (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.2.176:30120</option>
-<option value="BTV2HD _ TH Bình Dương (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.1.150:30120</option>
-<option value="iMOVIE TV HD PHIM CHỌN LỌC _ BTV4(HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.1.149:30120</option>
-<option value="ĐNRTV1HD _ TH Đồng Nai (HD 8Mbps)">http://ictu.giize.com:1996/udp/225.1.1.30:30120</option>
-<option value="ĐNRTV2HD _ TH Đồng Nai (HD 8Mbps)">http://ictu.giize.com:1996/udp/225.1.1.152:30120</option>
-<option value="TTV11_ TH Tây Ninh (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.1.151:30120</option>
-<option value="BRT HD _ TH Bà Rịa Vũng Tàu (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.1.130:30120</option>
-<option value="THTG _ TH Tiền Giang (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.2.175:30120</option>
-<option value="THTV HD _ TH Trà Vinh (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.2.170:30120</option>
-<option value="HGTV _ TH Hậu Giang (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.2.172:30120</option>
-<option value="KG1_ TH Kiên Giang (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.1.157:30120</option>
-<option value="BLTV HD _ TH Bạc Liêu (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.2.182:30120</option>
-<option value="CTV _ TH Cà Mau (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.1.61:30120</option>
-<option value="THLC _ TH Lào Cai">http://ictu.giize.com:1996/udp/225.1.1.104:30120</option>
-<option value="YTV _ TH Yên Bái">http://ictu.giize.com:1996/udp/225.1.1.119:30120</option>
-<option value="ĐTV _ TH Điện Biên">http://ictu.giize.com:1996/udp/225.1.1.39:30120</option>
-<option value="HBTV _ TH Hòa Bình">http://ictu.giize.com:1996/udp/225.1.1.74:30120</option>
-<option value="STV _ TH Sơn La">http://ictu.giize.com:1996/udp/225.1.2.168:30120</option>
-<option value="HGTV _ TH Hà Giang">http://ictu.giize.com:1996/udp/225.1.1.98:30120</option>
-<option value="CRTV _ TH Cao Bằng">http://ictu.giize.com:1996/udp/225.1.1.62:30120</option>
-<option value="LSTV _ TH Lạng Sơn">http://ictu.giize.com:1996/udp/225.1.1.102:30120</option>
-<option value="TTV _ TH Tuyên Quang">http://ictu.giize.com:1996/udp/225.1.1.160:30120</option>
-<option value="BGTV _ TH Bắc Giang">http://ictu.giize.com:1996/udp/225.1.2.188:30120</option>
-<option value="QTV3_ TH Quảng Ninh">http://ictu.giize.com:1996/udp/225.1.1.164:30120</option>
-<option value="THHN _ TH Hà Nam">http://ictu.giize.com:1996/udp/225.1.2.180:30120</option>
-<option value="THD _ TH Hải Dương">http://ictu.giize.com:1996/udp/225.1.1.63:30120</option>
-<option value="HY _ TH Hưng Yên">http://ictu.giize.com:1996/udp/225.1.1.158:30120</option>
-<option value="NTV _ TH Nam Định">http://ictu.giize.com:1996/udp/225.1.1.118:30120</option>
-<option value="TBTV _ TH Thái Bình">http://ictu.giize.com:1996/udp/225.1.1.120:30120</option>
-<option value="VP _ TH Vĩnh Phúc">http://ictu.giize.com:1996/udp/225.1.1.99:30120</option>
-<option value="TTV _ TH Thanh Hóa">http://ictu.giize.com:1996/udp/225.1.2.99:30120</option>
-<option value="HTTV _ TH Hà Tĩnh">http://ictu.giize.com:1996/udp/225.1.2.184:30120</option>
-<option value="QBTV _ TH Quảng Bình">http://ictu.giize.com:1996/udp/225.1.1.75:30120</option>
-<option value="QRTV _ TH Quảng Trị">http://ictu.giize.com:1996/udp/225.1.2.164:30120</option>
-<option value="TRT _ TH Thừa Thiên Huế">http://ictu.giize.com:1996/udp/225.1.1.117:30120</option>
-<option value="QRT _ TH Quảng Nam">http://ictu.giize.com:1996/udp/225.1.1.161:30120</option>
-<option value="BTV _ TH Bình Định">http://ictu.giize.com:1996/udp/225.1.2.50:30120</option>
-<option value="NTV _ TH Ninh Thuận">http://ictu.giize.com:1996/udp/225.1.1.145:30120</option>
-<option value="BTV _ TH Bình Thuận">http://ictu.giize.com:1996/udp/225.1.2.178:30120</option>
-<option value="KRT _ TH Kon Tum">http://ictu.giize.com:1996/udp/225.1.1.124:30120</option>
-<option value="DRT _ TH Đắk Lắk">http://ictu.giize.com:1996/udp/225.1.1.36:30120</option>
-<option value="LTV _ TH Lâm Đồng">http://ictu.giize.com:1996/udp/225.1.1.64:30120</option>
-<option value="BPTV1_ TH Bình Phước">http://ictu.giize.com:1996/udp/225.1.2.177:30120</option>
-<option value="BPTV2_ HOME tv">http://ictu.giize.com:1996/udp/225.1.2.23:30120</option>
-<option value="BTV6_ TH Bình Dương">http://ictu.giize.com:1996/udp/225.1.2.38:30120</option>
-<option value="BTV11_ TH Bình Dương">http://ictu.giize.com:1996/udp/225.1.1.223:30120</option>
-<option value="LA34_ TH Long An">http://ictu.giize.com:1996/udp/225.1.1.224:30120</option>
-<option value="THĐT1_ TH Đồng Tháp">http://ictu.giize.com:1996/udp/225.1.1.162:30120</option>
-<option value="ATV _ TH An Giang">http://ictu.giize.com:1996/udp/225.1.1.163:30120</option>
-<option value="THBT _ TH Bến Tre">http://ictu.giize.com:1996/udp/225.1.2.173:30120</option>
-<option value="STV1_ TH Sóc Trăng">http://ictu.giize.com:1996/udp/225.1.1.156:30120</option>
-<option value="THTPCT _ TH Thành phố Cần Thơ">http://ictu.giize.com:1996/udp/225.1.1.159:30120</option>
-<option value="VTV2HD (HD 4.5Mbps)">http://ictu.giize.com:1996/udp/225.1.1.132:30120</option>
-<option value="VTV3HD (HD 4.5Mbps)">http://ictu.giize.com:1996/udp/225.1.4.2:30120</option>
-<option value="VTV4HD (HD 4.5Mbps)">http://ictu.giize.com:1996/udp/225.1.4.3:30120</option>
-<option value="VTV6HD (HD 4.5Mbps)">http://ictu.giize.com:1996/udp/225.1.4.4:30120</option>
-<option value="VTC3HD (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.4.6:30120</option>
-<option value="VTC13HD (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.4.42:30120</option>
-<option value="VTC12">http://ictu.giize.com:1996/udp/225.1.4.52:30120</option>
-<option value="VOV Vietnam Journey">http://ictu.giize.com:1996/udp/225.1.2.51:30120</option>
-<option value="HTV7HD (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.2.171:30120</option>
-<option value="ANTV HD (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.4.59:30120</option>
-<option value="Nhân Dân TV (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.2.169:30120</option>
-<option value="QUỐC HỘI (HD 6Mbps)">http://ictu.giize.com:1996/udp/225.1.1.91:30120</option>
-<option value="QPVN (HD 6Mbps)">http://ictu.giize.com:1996/udp/225.1.2.148:30120</option>
-<option value="VNEWS (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.2.217:30120</option>
-<option value="An Viên HD _ BTV9(HD 50p)">http://ictu.giize.com:1996/udp/225.1.1.43:30120</option>
-<option value="AN NINH THẾ GIỚI">http://ictu.giize.com:1996/udp/225.1.2.189:30120</option>
-<option value="THĐT2_ Miền Tây">http://ictu.giize.com:1996/udp/225.1.1.208:30120</option>
-<option value="NCM _ BTV10">http://ictu.giize.com:1996/udp/225.1.1.221:30120</option>
-<option value="PHIM HAY">http://ictu.giize.com:1996/udp/225.1.1.225:30120</option>
-<option value="youTV _ Hanoicab2">http://ictu.giize.com:1996/udp/225.1.1.222:30120</option>
-<option value="MOV _ Hanoicab4">http://ictu.giize.com:1996/udp/225.1.1.207:30120</option>
-<option value="Vietnamnet">http://ictu.giize.com:1996/udp/225.1.1.206:30120</option>
-<option value="[V] HD (HD 8Mbps)">http://ictu.giize.com:1996/udp/225.1.1.194:30120</option>
-<option value="Da Vinci (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.4.30:30120</option>
-<option value="FOX life (HD 8Mbps)">http://ictu.giize.com:1996/udp/225.1.4.38:30120</option>
-<option value="HBO (HD 11Mbps)">http://ictu.giize.com:1996/udp/225.1.4.32:30120</option>
-<option value="NATIONAL GEOGRAPHIC HD (HD 8Mbps)">http://ictu.giize.com:1996/udp/225.1.2.102:30120</option>
-<option value="WBTV (HD 8Mbps)">http://ictu.giize.com:1996/udp/225.1.4.31:30120</option>
-<option value="Arirang KOREA">http://ictu.giize.com:1996/udp/225.1.1.139:30120</option>
-<option value="KBS WORLD">http://ictu.giize.com:1996/udp/225.1.1.201:30120</option>
-<option value="VTV1HD (FPT Play)">http://ictu.giize.com:1996/udp/225.1.1.196:30120</option>
-<option value="VTV5HD (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.1:30120</option>
-<option value="VTV8HD (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.5:30120</option>
-<option value="VTV9HD (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.7:30120</option>
-<option value="VTC2(FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.8:30120</option>
-<option value="VTC4HD (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.41:30120</option>
-<option value="VTC5(FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.43:30120</option>
-<option value="VTC6(FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.44:30120</option>
-<option value="VTC7(FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.45:30120</option>
-<option value="VTC8(FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.46:30120</option>
-<option value="VTC9(FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.47:30120</option>
-<option value="VTC10(FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.48:30120</option>
-<option value="VTC11(FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.49:30120</option>
-<option value="VTC14HD (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.50:30120</option>
-<option value="VTC16(FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.53:30120</option>
-<option value="HTV1(FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.54:30120</option>
-<option value="HTV2Vie Channel (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.55:30120</option>
-<option value="HTV3Dreams TV (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.56:30120</option>
-<option value="HTV Keys (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.57:30120</option>
-<option value="HTV THỂ THAO (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.58:30120</option>
-<option value="HTV  (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.60:30120</option>
-<option value="DU LỊCH VÀ CUỘC SỐNG (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.68:30120</option>
-<option value="FBNC (HD) (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.67:30120</option>
-<option value="GIA ĐÌNH (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.70:30120</option>
-<option value="HTVC PHIM (HD) (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.64:30120</option>
-<option value="PHỤ NỮ (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.63:30120</option>
-<option value="Thuần Việt (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.66:30120</option>
-<option value="Thuần Việt HD (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.61:30120</option>
-<option value="PHIM HAY (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.62:30120</option>
-<option value="BTV10NCM (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.77:30120</option>
-<option value="QTV3_ TH Quảng Ninh (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.83:30120</option>
-<option value="BPTV2_ HOME tv (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.86:30120</option>
-<option value="BTV2HD _ TH Bình Dương (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.80:30120</option>
-<option value="BTV6(FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.81:30120</option>
-<option value="BTV11(FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.78:30120</option>
-<option value="iMOVIE TV HD PHIM CHỌN LỌC _ BTV4(HD) (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.84:30120</option>
-<option value="ĐNRTV2HD _ TH Đồng Nai (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.82:30120</option>
-<option value="THVL2HD _ TH Vĩnh Long (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.85:30120</option>
-<option value="ABC AUSTRALIA (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.87:30120</option>
-<option value="Asian Food Channel (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.19:30120</option>
-<option value="Animal Planet (HD) (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.36:30120</option>
-<option value="arirang KOREA (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.27:30120</option>
-<option value="AXN (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.74:30120</option>
-<option value="Baby First (HD) (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.9:30120</option>
-<option value="BBC earth (HD) (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.28:30120</option>
-<option value="BBC lifestyle (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.21:30120</option>
-<option value="BBC WORLD NEWS (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.23:30120</option>
-<option value="BLOOMBERG (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.22:30120</option>
-<option value="BOOMERANG (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.18:30120</option>
-<option value="CARTOON NETWORK (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.16:30120</option>
-<option value="cna (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.13:30120</option>
-<option value="Cinema World (HD) (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.76:30120</option>
-<option value="CNN (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.15:30120</option>
-<option value="Discovery Asia (HD) (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.17:30120</option>
-<option value="Discovery Channel (HD) (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.25:30120</option>
-<option value="DIVA (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.24:30120</option>
-<option value="DW (HD) (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.39:30120</option>
-<option value="FASHION TV (HD) (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.75:30120</option>
-<option value="FOX HD (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.20:30120</option>
-<option value="FOX MOVIES (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.33:30120</option>
-<option value="FOX SPORTS (HD) (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.34:30120</option>
-<option value="FOX SPORTS 2(FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.10:30120</option>
-<option value="FOX SPORTS 3(HD) (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.11:30120</option>
-<option value="FRANCE 24(FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.12:30120</option>
-<option value="KBS WORLD (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.71:30120</option>
-<option value="KIX (HD) (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.69:30120</option>
-<option value="NHK WORLD JAPAN (HD) (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.40:30120</option>
-<option value="Outdoor Channel (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.73:30120</option>
-<option value="TLC (HD) (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.37:30120</option>
-<option value="TV5MONDE ASIE">http://ictu.giize.com:1996/udp/225.1.4.26:30120</option>
-<option value="WBTV (FPT Play)">http://ictu.giize.com:1996/udp/225.1.4.72:30120</option>
-<option value="Dolife Hospital">http://ictu.giize.com:1996/udp/225.1.4.14:30120</option>
-<option value="The Mira Hotel">http://ictu.giize.com:1996/udp/225.1.1.127:30120</option>
-<option value="The Ocean Resort">http://ictu.giize.com:1996/udp/225.1.1.123:30120</option>
-<option value="FPT Giới Thiệu Chương Trình">http://ictu.giize.com:1996/udp/225.1.1.121:30120</option>
-<option value="FPT Giới Thiệu Dịch Vụ">http://ictu.giize.com:1996/udp/225.1.1.2:30120</option>
-<option value="FPT Mở Két">http://ictu.giize.com:1996/udp/225.1.1.137:30120</option>
-<option value="FPT Mở Két">http://ictu.giize.com:1996/udp/225.1.1.26:30120</option>
-<option value="FPT Thể Thao">http://ictu.giize.com:1996/udp/225.1.1.97:30120</option>
-<option value="VTC14HD">http://ictu.giize.com:1996/udp/225.1.2.252:30120</option>
-<option value="VTVCab11_ VGS SHOP">http://ictu.giize.com:1996/udp/225.1.2.103:30120</option>
-<option value="VTVCab13_ VTV Hyundai Homeshopping">http://ictu.giize.com:1996/udp/225.1.2.167:30120</option>
-<option value="VTVCab13_ VTV Hyundai Homeshopping">http://ictu.giize.com:1996/udp/225.1.1.122:30120</option>
-<option value="BTV6_ Quê Hương Homeshopping">http://ictu.giize.com:1996/udp/225.1.4.79:30120</option>
-<option value="K+1HD (DRM)">http://ictu.giize.com:1996/udp/225.1.1.90:30120</option>
-<option value="K+NS HD (DRM)">http://ictu.giize.com:1996/udp/225.1.1.5:30120</option>
-<option value="K+PM HD (DRM)">http://ictu.giize.com:1996/udp/225.1.1.6:30120</option>
-<option value="K+PC HD (DRM)">http://ictu.giize.com:1996/udp/225.1.1.73:30120</option>
-<option value="QUỐC HỘI (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.1.77:30120</option>
-<option value="QPVN (HD 4Mbps)">http://ictu.giize.com:1996/udp/225.1.4.148:30120</option>
-<option value="FPT Trực tiếp">http://ictu.giize.com:1996/udp/225.1.4.217:30120</option>
+#EXTM3U
+#EXTINF:-1,VTV1 HD
+http://ictu.giize.com:1996/udp/225.1.2.249:30120
+#EXTINF:-1,VTV2 HD
+http://ictu.giize.com:1996/udp/225.1.2.13:30120
+#EXTINF:-1,VTV3 HD
+http://ictu.giize.com:1996/udp/225.1.2.247:30120
+#EXTINF:-1,VTV4 HD
+http://ictu.giize.com:1996/udp/225.1.2.20:30120
+#EXTINF:-1,VTV5 HD
+http://ictu.giize.com:1996/udp/225.1.1.131:30120
+#EXTINF:-1,VTV7 HD
+http://ictu.giize.com:1996/udp/225.1.2.96:30120
+#EXTINF:-1,VTV8 HD
+http://ictu.giize.com:1996/udp/225.1.2.166:30120
+#EXTINF:-1,VTV9 HD
+http://ictu.giize.com:1996/udp/225.1.1.128:30120
+#EXTINF:-1,Cần Thơ
+http://ictu.giize.com:1996/udp/225.1.2.245:30120
+#EXTINF:-1,HTV1
+http://ictu.giize.com:1996/udp/225.1.1.180:30120
+#EXTINF:-1,HTV2 HD-Vie Channel
+http://ictu.giize.com:1996/udp/225.1.1.193:30120
+#EXTINF:-1,HTV3
+http://ictu.giize.com:1996/udp/225.1.1.178:30120
+#EXTINF:-1,HTV4-Key
+http://ictu.giize.com:1996/udp/225.1.1.177:30120
+#EXTINF:-1,HTV7 FHD
+http://ictu.giize.com:1996/udp/225.1.1.192:30120
+#EXTINF:-1,HTV9 FHD
+http://ictu.giize.com:1996/udp/225.1.1.190:30120
+#EXTINF:-1,HTVC Phim HD
+http://ictu.giize.com:1996/udp/225.1.1.184:30120
+#EXTINF:-1,HTVC Gia Đình
+http://ictu.giize.com:1996/udp/225.1.1.170:30120
+#EXTINF:-1,HTVC Du Lịch
+http://ictu.giize.com:1996/udp/225.1.1.166:30120
+#EXTINF:-1,HTVC Phụ Nữ
+http://ictu.giize.com:1996/udp/225.1.1.171:30120
+#EXTINF:-1,HTVC Thuần Việt HD
+http://ictu.giize.com:1996/udp/225.1.1.186:30120
+#EXTINF:-1,HTV Coop
+http://ictu.giize.com:1996/udp/225.1.1.210:30120
+#EXTINF:-1,HTVC Thể Thao HD
+http://ictu.giize.com:1996/udp/225.1.1.165:30120
+#EXTINF:-1,HTVC Shopping-VGS Shop
+http://ictu.giize.com:1996/udp/225.1.1.172:30120
+#EXTINF:-1,VTC1 HD
+http://ictu.giize.com:1996/udp/225.1.2.254:30120
+#EXTINF:-1,VTC2
+http://ictu.giize.com:1996/udp/225.1.2.202:30120
+#EXTINF:-1,VTC3 HD
+http://ictu.giize.com:1996/udp/225.1.2.251:30120
+#EXTINF:-1,Yeah1 !Family - VTC4
+http://ictu.giize.com:1996/udp/225.1.2.200:30120
+#EXTINF:-1,tvBlue - VTC5
+http://ictu.giize.com:1996/udp/225.1.2.199:30120
+#EXTINF:-1,VTC6
+http://ictu.giize.com:1996/udp/225.1.2.198:30120
+#EXTINF:-1,Today TV - VTC7
+http://ictu.giize.com:1996/udp/225.1.2.197:30120
+#EXTINF:-1,View TV - VTC8
+http://ictu.giize.com:1996/udp/225.1.2.196:30120
+#EXTINF:-1,VTC9
+http://ictu.giize.com:1996/udp/225.1.2.195:30120
+#EXTINF:-1,Nét Việt - VTC10
+http://ictu.giize.com:1996/udp/225.1.2.194:30120
+#EXTINF:-1,Kids &amp; Family TV - VTC11
+http://ictu.giize.com:1996/udp/225.1.2.193:30120
+#EXTINF:-1,VTC13 HD
+http://ictu.giize.com:1996/udp/225.1.2.250:30120
+#EXTINF:-1,VTC14 HD
+http://ictu.giize.com:1996/udp/225.1.2.88:30120
+#EXTINF:-1,3NTV - VTC16 HD
+http://ictu.giize.com:1996/udp/225.1.2.190:30120
+#EXTINF:-1,THVL1 HD
+http://ictu.giize.com:1996/udp/225.1.1.155:30120
+#EXTINF:-1,THVL2 HD
+http://ictu.giize.com:1996/udp/225.1.1.154:30120
+#EXTINF:-1,THVL3 HD
+http://ictu.giize.com:1996/udp/225.1.1.235:30120
+#EXTINF:-1,PTQ HD
+http://ictu.giize.com:1996/udp/225.1.2.174:30120
+#EXTINF:-1,Animal Planet
+http://ictu.giize.com:1996/udp/225.1.1.231:30120
+#EXTINF:-1,Asian Food Channel HD
+http://ictu.giize.com:1996/udp/225.1.1.198:30120
+#EXTINF:-1,ABC Australia
+http://ictu.giize.com:1996/udp/225.1.2.21:30120
+#EXTINF:-1,AXN HD
+http://ictu.giize.com:1996/udp/225.1.2.225:30120
+#EXTINF:-1,BBC Earth HD
+http://ictu.giize.com:1996/udp/225.1.2.24:30120
+#EXTINF:-1,BBC Lifestyle
+http://ictu.giize.com:1996/udp/225.1.2.52:30120
+#EXTINF:-1,BBC World News
+http://ictu.giize.com:1996/udp/225.1.2.74:30120
+#EXTINF:-1,Baby TV HD
+http://ictu.giize.com:1996/udp/225.1.2.146:30120
+#EXTINF:-1,Cartoon Network HD
+http://ictu.giize.com:1996/udp/225.1.2.231:30120
+#EXTINF:-1,Channel News Asia
+http://ictu.giize.com:1996/udp/225.1.1.202:30120
+#EXTINF:-1,Channel [V] HD
+http://ictu.giize.com:1996/udp/225.1.1.188:30120
+#EXTINF:-1,Cinema World HD
+http://ictu.giize.com:1996/udp/225.1.1.142:30120
+#EXTINF:-1,CNBC
+http://ictu.giize.com:1996/udp/225.1.1.227:30120
+#EXTINF:-1,CNN
+http://ictu.giize.com:1996/udp/225.1.1.242:30120
+#EXTINF:-1,Da Vinci Learning HD
+http://ictu.giize.com:1996/udp/225.1.1.197:30120
+#EXTINF:-1,Discovery Asia HD
+http://ictu.giize.com:1996/udp/225.1.2.223:30120
+#EXTINF:-1,Discovery Channel
+http://ictu.giize.com:1996/udp/225.1.1.238:30120
+#EXTINF:-1,Disney Channel HD
+http://ictu.giize.com:1996/udp/225.1.2.158:30120
+#EXTINF:-1,Disney Junior
+http://ictu.giize.com:1996/udp/225.1.1.233:30120
+#EXTINF:-1,Diva Universal
+http://ictu.giize.com:1996/udp/225.1.1.199:30120
+#EXTINF:-1,DW HD
+http://ictu.giize.com:1996/udp/225.1.1.46:30120
+#EXTINF:-1,SCTV2-ACM
+http://ictu.giize.com:1996/udp/225.1.1.234:30120
+#EXTINF:-1,FTV HD
+http://ictu.giize.com:1996/udp/225.1.2.227:30120
+#EXTINF:-1,FOX HD
+http://ictu.giize.com:1996/udp/225.1.1.51:30120
+#EXTINF:-1,Fox Sports HD
+http://ictu.giize.com:1996/udp/225.1.2.229:30120
+#EXTINF:-1,Fox Sports 2 HD
+http://ictu.giize.com:1996/udp/225.1.1.141:30120
+#EXTINF:-1,Fox Sports 3 HD
+http://ictu.giize.com:1996/udp/225.1.2.242:30120
+#EXTINF:-1,Fox Movies HD
+http://ictu.giize.com:1996/udp/225.1.2.239:30120
+#EXTINF:-1,Fox Life HD
+http://ictu.giize.com:1996/udp/225.1.2.237:30120
+#EXTINF:-1,France 24
+http://ictu.giize.com:1996/udp/225.1.2.211:30120
+#EXTINF:-1,HBO HD
+http://ictu.giize.com:1996/udp/225.1.2.233:30120
+#EXTINF:-1,KIX HD
+http://ictu.giize.com:1996/udp/225.1.2.144:30120
+#EXTINF:-1,MAX by HBO HD
+http://ictu.giize.com:1996/udp/225.1.2.86:30120
+#EXTINF:-1,National Geographic HD
+http://ictu.giize.com:1996/udp/225.1.2.235:30120
+#EXTINF:-1,NHK World
+http://ictu.giize.com:1996/udp/225.1.1.47:30120
+#EXTINF:-1,Outdoor Channel HD
+http://ictu.giize.com:1996/udp/225.1.2.215:30120
+#EXTINF:-1,RED by HBO HD
+http://ictu.giize.com:1996/udp/225.1.1.93:30120
+#EXTINF:-1,TLC
+http://ictu.giize.com:1996/udp/225.1.1.236:30120
+#EXTINF:-1,TV5Monde Asia
+http://ictu.giize.com:1996/udp/225.1.1.200:30120
+#EXTINF:-1,Blue Ant Entertainment
+http://ictu.giize.com:1996/udp/225.1.1.203:30120
+#EXTINF:-1,Blue Ant Extreme
+http://ictu.giize.com:1996/udp/225.1.1.204:30120
+#EXTINF:-1,TN1 HD _ TH Thái Nguyên (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.2.179:30120
+#EXTINF:-1,PTV HD _ TH Phú Thọ (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.2.165:30120
+#EXTINF:-1,QTV1 HD _ TH Quảng Ninh (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.2.181:30120
+#EXTINF:-1,BTV _ TH Bắc Ninh (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.1.40:30120
+#EXTINF:-1,H1 HD _ TH Hà Nội (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.2.186:30120
+#EXTINF:-1,H2 HD _ TH Hà Nội (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.1.125:30120
+#EXTINF:-1,THP HD _ TH Thành phố Hải Phòng (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.1.44:30120
+#EXTINF:-1,NTV HD _ TH Ninh Bình (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.2.185:30120
+#EXTINF:-1,NTV HD _ TH Nghệ An (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.2.183:30120
+#EXTINF:-1,DaNangTV1 HD _ TH Thành phố Đà Nẵng (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.1.147:30120
+#EXTINF:-1,DaNangTV2 HD _ TH Thành phố Đà Nẵng (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.1.146:30120
+#EXTINF:-1,PTP _ TH Phú Yên (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.2.58:30120
+#EXTINF:-1,KTV HD _ TH Khánh Hòa (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.1.133:30120
+#EXTINF:-1,THGL _ TH Gia Lai (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.2.176:30120
+#EXTINF:-1,BTV1 HD _ TH Bình Dương (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.1.150:30120
+#EXTINF:-1,BTV2 HD _ TH Bình Dương (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.1.149:30120
+#EXTINF:-1,iMOVIE TV HD PHIM CHỌN LỌC _ BTV4 (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.1.30:30120
+#EXTINF:-1,ĐNRTV1 HD _ TH Đồng Nai (HD 8Mbps)
+http://ictu.giize.com:1996/udp/225.1.1.152:30120
+#EXTINF:-1,ĐNRTV2 HD _ TH Đồng Nai (HD 8Mbps)
+http://ictu.giize.com:1996/udp/225.1.1.151:30120
+#EXTINF:-1,TTV11 _ TH Tây Ninh (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.1.130:30120
+#EXTINF:-1,BRT HD _ TH Bà Rịa Vũng Tàu (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.2.175:30120
+#EXTINF:-1,THTG _ TH Tiền Giang (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.2.170:30120
+#EXTINF:-1,THTV HD _ TH Trà Vinh (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.2.172:30120
+#EXTINF:-1,HGTV _ TH Hậu Giang (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.1.157:30120
+#EXTINF:-1,KG1 _ TH Kiên Giang (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.2.182:30120
+#EXTINF:-1,BLTV HD _ TH Bạc Liêu (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.1.61:30120
+#EXTINF:-1,CTV _ TH Cà Mau (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.1.104:30120
+#EXTINF:-1,THLC _ TH Lào Cai
+http://ictu.giize.com:1996/udp/225.1.1.119:30120
+#EXTINF:-1,YTV _ TH Yên Bái
+http://ictu.giize.com:1996/udp/225.1.1.39:30120
+#EXTINF:-1,ĐTV _ TH Điện Biên
+http://ictu.giize.com:1996/udp/225.1.1.74:30120
+#EXTINF:-1,HBTV _ TH Hòa Bình
+http://ictu.giize.com:1996/udp/225.1.2.168:30120
+#EXTINF:-1,STV _ TH Sơn La
+http://ictu.giize.com:1996/udp/225.1.1.98:30120
+#EXTINF:-1,HGTV _ TH Hà Giang
+http://ictu.giize.com:1996/udp/225.1.1.62:30120
+#EXTINF:-1,CRTV _ TH Cao Bằng
+http://ictu.giize.com:1996/udp/225.1.1.102:30120
+#EXTINF:-1,LSTV _ TH Lạng Sơn
+http://ictu.giize.com:1996/udp/225.1.1.160:30120
+#EXTINF:-1,TTV _ TH Tuyên Quang
+http://ictu.giize.com:1996/udp/225.1.2.188:30120
+#EXTINF:-1,BGTV _ TH Bắc Giang
+http://ictu.giize.com:1996/udp/225.1.1.164:30120
+#EXTINF:-1,QTV3 _ TH Quảng Ninh
+http://ictu.giize.com:1996/udp/225.1.2.180:30120
+#EXTINF:-1,THHN _ TH Hà Nam
+http://ictu.giize.com:1996/udp/225.1.1.63:30120
+#EXTINF:-1,THD _ TH Hải Dương
+http://ictu.giize.com:1996/udp/225.1.1.158:30120
+#EXTINF:-1,HY _ TH Hưng Yên
+http://ictu.giize.com:1996/udp/225.1.1.118:30120
+#EXTINF:-1,NTV _ TH Nam Định
+http://ictu.giize.com:1996/udp/225.1.1.120:30120
+#EXTINF:-1,TBTV _ TH Thái Bình
+http://ictu.giize.com:1996/udp/225.1.1.99:30120
+#EXTINF:-1,VP _ TH Vĩnh Phúc
+http://ictu.giize.com:1996/udp/225.1.2.99:30120
+#EXTINF:-1,TTV _ TH Thanh Hóa
+http://ictu.giize.com:1996/udp/225.1.2.184:30120
+#EXTINF:-1,HTTV _ TH Hà Tĩnh
+http://ictu.giize.com:1996/udp/225.1.1.75:30120
+#EXTINF:-1,QBTV _ TH Quảng Bình
+http://ictu.giize.com:1996/udp/225.1.2.164:30120
+#EXTINF:-1,QRTV _ TH Quảng Trị
+http://ictu.giize.com:1996/udp/225.1.1.117:30120
+#EXTINF:-1,TRT _ TH Thừa Thiên Huế
+http://ictu.giize.com:1996/udp/225.1.1.161:30120
+#EXTINF:-1,QRT _ TH Quảng Nam
+http://ictu.giize.com:1996/udp/225.1.2.50:30120
+#EXTINF:-1,BTV _ TH Bình Định
+http://ictu.giize.com:1996/udp/225.1.1.145:30120
+#EXTINF:-1,NTV _ TH Ninh Thuận
+http://ictu.giize.com:1996/udp/225.1.2.178:30120
+#EXTINF:-1,BTV _ TH Bình Thuận
+http://ictu.giize.com:1996/udp/225.1.1.124:30120
+#EXTINF:-1,KRT _ TH Kon Tum
+http://ictu.giize.com:1996/udp/225.1.1.36:30120
+#EXTINF:-1,DRT _ TH Đắk Lắk
+http://ictu.giize.com:1996/udp/225.1.1.64:30120
+#EXTINF:-1,LTV _ TH Lâm Đồng
+http://ictu.giize.com:1996/udp/225.1.2.177:30120
+#EXTINF:-1,BPTV1 _ TH Bình Phước
+http://ictu.giize.com:1996/udp/225.1.2.23:30120
+#EXTINF:-1,BPTV2 _ HOME tv
+http://ictu.giize.com:1996/udp/225.1.2.38:30120
+#EXTINF:-1,BTV6 _ TH Bình Dương
+http://ictu.giize.com:1996/udp/225.1.1.223:30120
+#EXTINF:-1,BTV11 _ TH Bình Dương
+http://ictu.giize.com:1996/udp/225.1.1.224:30120
+#EXTINF:-1,LA34 _ TH Long An
+http://ictu.giize.com:1996/udp/225.1.1.162:30120
+#EXTINF:-1,THĐT1 _ TH Đồng Tháp
+http://ictu.giize.com:1996/udp/225.1.1.163:30120
+#EXTINF:-1,ATV _ TH An Giang
+http://ictu.giize.com:1996/udp/225.1.2.173:30120
+#EXTINF:-1,THBT _ TH Bến Tre
+http://ictu.giize.com:1996/udp/225.1.1.156:30120
+#EXTINF:-1,STV1 _ TH Sóc Trăng
+http://ictu.giize.com:1996/udp/225.1.1.159:30120
+#EXTINF:-1,THTPCT _ TH Thành phố Cần Thơ
+http://ictu.giize.com:1996/udp/225.1.1.132:30120
+#EXTINF:-1,VTV2 HD (HD 4.5Mbps)
+http://ictu.giize.com:1996/udp/225.1.4.2:30120
+#EXTINF:-1,VTV3 HD (HD 4.5Mbps)
+http://ictu.giize.com:1996/udp/225.1.4.3:30120
+#EXTINF:-1,VTV4 HD (HD 4.5Mbps)
+http://ictu.giize.com:1996/udp/225.1.4.4:30120
+#EXTINF:-1,VTV6 HD (HD 4.5Mbps)
+http://ictu.giize.com:1996/udp/225.1.4.6:30120
+#EXTINF:-1,VTC3 HD (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.4.42:30120
+#EXTINF:-1,VTC13 HD (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.4.52:30120
+#EXTINF:-1,VTC12
+http://ictu.giize.com:1996/udp/225.1.2.51:30120
+#EXTINF:-1,VOV Vietnam Journey
+http://ictu.giize.com:1996/udp/225.1.2.171:30120
+#EXTINF:-1,HTV7 HD (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.4.59:30120
+#EXTINF:-1,ANTV HD (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.2.169:30120
+#EXTINF:-1,Nhân Dân TV (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.1.91:30120
+#EXTINF:-1,QUỐC HỘI (HD 6Mbps)
+http://ictu.giize.com:1996/udp/225.1.2.148:30120
+#EXTINF:-1,QPVN (HD 6Mbps)
+http://ictu.giize.com:1996/udp/225.1.2.217:30120
+#EXTINF:-1,VNEWS (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.1.43:30120
+#EXTINF:-1,An Viên HD _ BTV9 (HD 50p)
+http://ictu.giize.com:1996/udp/225.1.2.189:30120
+#EXTINF:-1,AN NINH THẾ GIỚI
+http://ictu.giize.com:1996/udp/225.1.1.208:30120
+#EXTINF:-1,THĐT2 _ Miền Tây
+http://ictu.giize.com:1996/udp/225.1.1.221:30120
+#EXTINF:-1,NCM _ BTV10
+http://ictu.giize.com:1996/udp/225.1.1.225:30120
+#EXTINF:-1,PHIM HAY
+http://ictu.giize.com:1996/udp/225.1.1.222:30120
+#EXTINF:-1,youTV _ Hanoicab2
+http://ictu.giize.com:1996/udp/225.1.1.207:30120
+#EXTINF:-1,MOV _ Hanoicab4
+http://ictu.giize.com:1996/udp/225.1.1.206:30120
+#EXTINF:-1,Vietnamnet
+http://ictu.giize.com:1996/udp/225.1.1.194:30120
+#EXTINF:-1,[V] HD (HD 8Mbps)
+http://ictu.giize.com:1996/udp/225.1.4.30:30120
+#EXTINF:-1,Da Vinci (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.4.38:30120
+#EXTINF:-1,FOX life (HD 8Mbps)
+http://ictu.giize.com:1996/udp/225.1.4.32:30120
+#EXTINF:-1,HBO (HD 11Mbps)
+http://ictu.giize.com:1996/udp/225.1.2.102:30120
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+http://ictu.giize.com:1996/udp/225.1.4.31:30120
+#EXTINF:-1,WBTV (HD 8Mbps)
+http://ictu.giize.com:1996/udp/225.1.1.139:30120
+#EXTINF:-1,Arirang KOREA
+http://ictu.giize.com:1996/udp/225.1.1.201:30120
+#EXTINF:-1,KBS WORLD
+http://ictu.giize.com:1996/udp/225.1.1.196:30120
+#EXTINF:-1,VTV1 HD (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.1:30120
+#EXTINF:-1,VTV5 HD (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.5:30120
+#EXTINF:-1,VTV8 HD (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.7:30120
+#EXTINF:-1,VTV9 HD (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.8:30120
+#EXTINF:-1,VTC2 (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.41:30120
+#EXTINF:-1,VTC4 HD (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.43:30120
+#EXTINF:-1,VTC5 (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.44:30120
+#EXTINF:-1,VTC6 (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.45:30120
+#EXTINF:-1,VTC7 (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.46:30120
+#EXTINF:-1,VTC8 (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.47:30120
+#EXTINF:-1,VTC9 (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.48:30120
+#EXTINF:-1,VTC10 (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.49:30120
+#EXTINF:-1,VTC11 (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.50:30120
+#EXTINF:-1,VTC14 HD (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.53:30120
+#EXTINF:-1,VTC16 (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.54:30120
+#EXTINF:-1,HTV1 (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.55:30120
+#EXTINF:-1,HTV2 Vie Channel (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.56:30120
+#EXTINF:-1,HTV3 Dreams TV (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.57:30120
+#EXTINF:-1,HTV Keys (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.58:30120
+#EXTINF:-1,HTV THỂ THAO (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.60:30120
+#EXTINF:-1,HTV  (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.68:30120
+#EXTINF:-1,DU LỊCH VÀ CUỘC SỐNG (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.67:30120
+#EXTINF:-1,FBNC (HD) (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.70:30120
+#EXTINF:-1,GIA ĐÌNH (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.64:30120
+#EXTINF:-1,HTVC PHIM (HD) (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.63:30120
+#EXTINF:-1,PHỤ NỮ (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.66:30120
+#EXTINF:-1,Thuần Việt (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.61:30120
+#EXTINF:-1,Thuần Việt HD (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.62:30120
+#EXTINF:-1,PHIM HAY (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.77:30120
+#EXTINF:-1,BTV10 NCM (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.83:30120
+#EXTINF:-1,QTV3 _ TH Quảng Ninh (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.86:30120
+#EXTINF:-1,BPTV2 _ HOME tv (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.80:30120
+#EXTINF:-1,BTV2 HD _ TH Bình Dương (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.81:30120
+#EXTINF:-1,BTV6 (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.78:30120
+#EXTINF:-1,BTV11 (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.84:30120
+#EXTINF:-1,iMOVIE TV HD PHIM CHỌN LỌC _ BTV4 (HD) (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.82:30120
+#EXTINF:-1,ĐNRTV2 HD _ TH Đồng Nai (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.85:30120
+#EXTINF:-1,THVL2 HD _ TH Vĩnh Long (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.87:30120
+#EXTINF:-1,ABC AUSTRALIA (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.19:30120
+#EXTINF:-1,Asian Food Channel (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.36:30120
+#EXTINF:-1,Animal Planet (HD) (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.27:30120
+#EXTINF:-1,arirang KOREA (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.74:30120
+#EXTINF:-1,AXN (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.9:30120
+#EXTINF:-1,Baby First (HD) (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.28:30120
+#EXTINF:-1,BBC earth (HD) (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.21:30120
+#EXTINF:-1,BBC lifestyle (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.23:30120
+#EXTINF:-1,BBC WORLD NEWS (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.22:30120
+#EXTINF:-1,BLOOMBERG (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.18:30120
+#EXTINF:-1,BOOMERANG (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.16:30120
+#EXTINF:-1,CARTOON NETWORK (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.13:30120
+#EXTINF:-1,cna (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.76:30120
+#EXTINF:-1,Cinema World (HD) (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.15:30120
+#EXTINF:-1,CNN (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.17:30120
+#EXTINF:-1,Discovery Asia (HD) (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.25:30120
+#EXTINF:-1,Discovery Channel (HD) (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.24:30120
+#EXTINF:-1,DIVA (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.39:30120
+#EXTINF:-1,DW (HD) (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.75:30120
+#EXTINF:-1,FASHION TV (HD) (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.20:30120
+#EXTINF:-1,FOX HD (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.33:30120
+#EXTINF:-1,FOX MOVIES (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.34:30120
+#EXTINF:-1,FOX SPORTS (HD) (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.10:30120
+#EXTINF:-1,FOX SPORTS 2 (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.11:30120
+#EXTINF:-1,FOX SPORTS 3 (HD) (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.12:30120
+#EXTINF:-1,FRANCE 24 (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.71:30120
+#EXTINF:-1,KBS WORLD (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.69:30120
+#EXTINF:-1,KIX (HD) (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.40:30120
+#EXTINF:-1,NHK WORLD JAPAN (HD) (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.73:30120
+#EXTINF:-1,Outdoor Channel (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.37:30120
+#EXTINF:-1,TLC (HD) (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.26:30120
+#EXTINF:-1,TV5 MONDE ASIE
+http://ictu.giize.com:1996/udp/225.1.4.72:30120
+#EXTINF:-1,WBTV (FPT Play)
+http://ictu.giize.com:1996/udp/225.1.4.14:30120
+#EXTINF:-1,Dolife Hospital
+http://ictu.giize.com:1996/udp/225.1.1.127:30120
+#EXTINF:-1,The Mira Hotel
+http://ictu.giize.com:1996/udp/225.1.1.123:30120
+#EXTINF:-1,The Ocean Resort
+http://ictu.giize.com:1996/udp/225.1.1.121:30120
+#EXTINF:-1,FPT Giới Thiệu Chương Trình
+http://ictu.giize.com:1996/udp/225.1.1.2:30120
+#EXTINF:-1,FPT Giới Thiệu Dịch Vụ
+http://ictu.giize.com:1996/udp/225.1.1.137:30120
+#EXTINF:-1,FPT Mở Két
+http://ictu.giize.com:1996/udp/225.1.1.26:30120
+#EXTINF:-1,FPT Mở Két
+http://ictu.giize.com:1996/udp/225.1.1.97:30120
+#EXTINF:-1,FPT Thể Thao
+http://ictu.giize.com:1996/udp/225.1.2.252:30120
+#EXTINF:-1,VTC14 HD
+http://ictu.giize.com:1996/udp/225.1.2.103:30120
+#EXTINF:-1,VTVCab11 _ VGS SHOP
+http://ictu.giize.com:1996/udp/225.1.2.167:30120
+#EXTINF:-1,VTVCab13 _ VTV Hyundai Homeshopping
+http://ictu.giize.com:1996/udp/225.1.1.122:30120
+#EXTINF:-1,VTVCab13 _ VTV Hyundai Homeshopping
+http://ictu.giize.com:1996/udp/225.1.4.79:30120
+#EXTINF:-1,BTV6 _ Quê Hương Homeshopping
+http://ictu.giize.com:1996/udp/225.1.1.90:30120
+#EXTINF:-1,K+1 HD (DRM)
+http://ictu.giize.com:1996/udp/225.1.1.5:30120
+#EXTINF:-1,K+NS HD (DRM)
+http://ictu.giize.com:1996/udp/225.1.1.6:30120
+#EXTINF:-1,K+PM HD (DRM)
+http://ictu.giize.com:1996/udp/225.1.1.73:30120
+#EXTINF:-1,K+PC HD (DRM)
+http://ictu.giize.com:1996/udp/225.1.1.77:30120
+#EXTINF:-1,QUỐC HỘI (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.4.148:30120
+#EXTINF:-1,QPVN (HD 4Mbps)
+http://ictu.giize.com:1996/udp/225.1.4.217:30120
+#EXTINF:-1,FPT Trực tiếp
+http://ictu.giize.com:1996/udp/225.1.1.94:30120

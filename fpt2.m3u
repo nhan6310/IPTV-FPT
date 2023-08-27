@@ -87,13 +87,13 @@ http://ictu.giize.com:2023/udp/225.1.2.88:30120
 #EXTINF:-1,VTC16 HD - 3NTV
 http://ictu.giize.com:2023/udp/225.1.2.190:30120
 
-#EXTINF:-1,THVL1 HD (no DSCP32)
+#EXTINF:-1,THVL1 HD
 http://ictu.giize.com:2023/udp/225.1.1.155:30120
 #EXTINF:-1,THVL2 HD
 http://ictu.giize.com:2023/udp/225.1.1.154:30120
 #EXTINF:-1,THVL3 HD
 http://ictu.giize.com:2023/udp/225.1.1.235:30120
-#EXTINF:-1,THVL4 HD (no DSCP32)
+#EXTINF:-1,THVL4 HD
 http://ictu.giize.com:2023/udp/225.1.2.25:30120
 #EXTINF:-1,PTQ HD
 http://ictu.giize.com:2023/udp/225.1.2.174:30120

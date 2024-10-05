@@ -4,4 +4,4 @@ import link:
 trình VLC hoặc Tivimate
 
 
-anh em muốn xem lâu dài thì liên hệ zalo 0969889796
+anh em muốn xem lâu dài thì liên hệ tele @nhan6310
